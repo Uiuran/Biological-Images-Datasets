@@ -7,7 +7,7 @@ Suggested pathway to pattern matching architecture:
 - Apply Generative Adversarial model with previous model as generator.
 
 
-Human Arts
+## Human Arts
 
 Some of the images are paitings by artists made public by themself, until now:
 
@@ -16,7 +16,7 @@ Some of the images are paitings by artists made public by themself, until now:
 - Frei Pedro, Brazil.
 - Adobe Behance (pop art and other) https://www.behance.net/.
 
-Biological Photos/Paintings
+## Biological Photos/Paintings
 
 - Samples personally made by me (photos).
 - Jill Bliss Biologist https://www.jillbliss.com/nature-medleys (photos/painting)
