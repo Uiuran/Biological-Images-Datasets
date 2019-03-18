@@ -16,10 +16,8 @@ Some of the images are paitings by artists made public by themself, until now:
 - Frei Pedro, Brazil.
 - Adobe Behance (pop art and other) https://www.behance.net/.
 
-Biological Photos
+Biological Photos/Paintings
 
-- Samples personally made by me.
-
-Biological Paintings
-
-- Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html (very high resolution).
+- Samples personally made by me (photos).
+- Jill Bliss Biologist https://www.jillbliss.com/nature-medleys (photos/painting)
+- Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html (painting) (very high resolution).
