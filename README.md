@@ -24,4 +24,4 @@ Some of the images are paitings by artists made public by themself, until now:
 ## General Pattern Matching Resources
 
 - Semantic Segmentation
--- https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
+  - https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
