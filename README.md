@@ -25,3 +25,6 @@ Some of the images are paitings by artists made public by themself, until now:
 
 - Semantic Segmentation
   - https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
+
+- Label/Classification Mocking (Surrogated Training Samples).
+  - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
