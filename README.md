@@ -1,13 +1,12 @@
 # Biological-Images-Datasets
-Just a online centralized access to biological images dataset to explore in pattern matching and Machine Learning research.
+Just a online centralized access to biological images dataset. Explore in pattern matching and Machine Learning research. Go talk with the artists and biologists.
 
-Suggested path (TODO):
+Suggested pathway to pattern matching architecture:
 - Apply semantic segmentation relying on many levels of deepeness and size of Convolutional Neural Nets layers.
 - Apply sequential models for sequence of coarse-grained extracted features.
 - Apply Generative Adversarial model with previous model as generator.
 
-
-Human Arts
+## Human Arts
 
 Some of the images are paitings by artists made public by themself, until now:
 
@@ -16,10 +15,16 @@ Some of the images are paitings by artists made public by themself, until now:
 - Frei Pedro, Brazil.
 - Adobe Behance (pop art and other) https://www.behance.net/.
 
-Biological Photos
+## Biological Photos/Paintings
 
-- Samples personally made by me.
+- Samples personally made by me (photos).
+- Jill Bliss Biologist https://www.jillbliss.com/nature-medleys (photos/painting)
+- Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html (painting) (very high resolution).
 
-Biological Paintings
+## General Pattern Matching Resources
 
-- Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html (very high resolution).
+- Semantic Segmentation
+  - https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
+
+- Label/Classification Mocking (Surrogated Training Samples).
+  - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
