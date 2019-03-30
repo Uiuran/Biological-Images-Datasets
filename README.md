@@ -12,6 +12,7 @@ Some of the images are paitings by artists made public by themself, until now:
 
 - Collective made art.
 - Anny Lemos, Brazil.
+- Maria José Cabral, Portugal.
 - Frei Pedro, Brazil.
 - Adobe Behance (pop art and other) https://www.behance.net/.
 
