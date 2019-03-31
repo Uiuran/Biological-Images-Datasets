@@ -25,7 +25,7 @@ Some of the images are paitings by artists made public by themself, until now:
 - Samples personally made by me, São Carlos Brazil (photos).
 - Sebastião Salgado, Earth (Black White Photos).
 - Jill Bliss Biologist https://www.jillbliss.com/nature-medleys, NOMAD OF THE SALISH SEA (photos/painting)
-- Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html (painting) (very high resolution).
+- Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html, U.S. (painting) (very high resolution).
 
 ## General Pattern Matching Resources
 
