@@ -12,8 +12,6 @@ Suggested pathway to pattern matching architecture:
 
 ## Human Arts
 
-Some of the images are paitings by artists made public by themself, until now:
-
 - Collective made art.
 - Anny Lemos, Brazil.
 - Maria José Cabral, Portugal.
