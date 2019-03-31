@@ -1,5 +1,5 @@
 # Biological-Images-Datasets
-Just a online centralized access to biological images dataset. Explore in pattern matching and Machine Learning research. Go talk with the artists and biologists.
+Online generated, biological, art images datasets. Explore in pattern matching and Machine Learning research. Go talk with the artists and biologists.
 
 Suggested pathway to pattern matching architecture:
 - Apply semantic segmentation relying on many levels of deepeness and size of Convolutional Neural Nets layers.
