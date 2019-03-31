@@ -22,9 +22,9 @@ Some of the images are paitings by artists made public by themself, until now:
 
 ## Biological Photos/Paintings
 
-- Samples personally made by me (photos).
-- Sebastião Salgado (Black White Photos).
-- Jill Bliss Biologist https://www.jillbliss.com/nature-medleys (photos/painting)
+- Samples personally made by me, São Carlos Brazil (photos).
+- Sebastião Salgado, Earth (Black White Photos).
+- Jill Bliss Biologist https://www.jillbliss.com/nature-medleys, NOMAD OF THE SALISH SEA (photos/painting)
 - Charlotte, https://services.math.duke.edu/~rachel/resources/charlotte2012.html (painting) (very high resolution).
 
 ## General Pattern Matching Resources
