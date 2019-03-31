@@ -1,4 +1,52 @@
-Generative Biology Artistical Academic Scientific Search and Research  (GBAASSR) 
+Generative, Biology, Arts and Academic Scientific Search and Research  (GBAASSR) 
+
+PORTUGUÊS, Ελληνικά, CATALÀ, ENGLISH, ESPAÑOL, ROMÂNĂ, KURDÎ, CHINESE, ITALIANO 
+(just writed in ENGLISH and used Google Translate, pls feel free to contribute, add languages, to this MANIFESTO without detur its purpose).
+
+PORTUGUÊS
+
+MANIFESTO ÉTICO
+
+0. Diretrizes
+
+As imagens não devem ser usadas sem o backup e autorização explícita dos autores originais.
+
+A frase precedente, para nós, traduz-se no seguinte, sem ficar preso no erro de autorização temporal linear e autorização pública inocente pela parte do autor original:
+
+O trabalho (imagem de) deve se enquadrar explicitamente nas perspectivas do projeto, principalmente: Pesquisa em Pesquisa e Pesquisa Científica Generativa em Biologia Artística para fins de software humanístico, produção medicinal, artística e terapêutica.
+
+Livre de viés de representação ideológica, identitária e cultural. Embora possa ser uma amostra representativa de qualquer representação emergente cultural, mas não acorrentada a esse propósito.
+
+O projeto está sob licença não comercial. Embora os autores originais sejam, obviamente, encarregados de lucrar com isso, se quiserem. O mantenedor do projeto está sujeito à licença anterior.
+
+1. Procedimento de autorização:
+
+1.1.Se a imagem for pública e o autor original tiver um canal de comunicação auto-intitulado na internet, então ele será solicitado para autorização.
+1.2.Se o autor original não fizer uso frequente do canal e a imagem estiver publicamente disponível, será feita uma notificação da vinculação. É delegado ao autor a vontade de pedir para excluir a imagem do projeto.
+1.3.Se o autor original não tiver canal de comunicação, a imagem é pública, e é bem conhecida a distribuição entre qualquer cultura humana, podendo ser usada sem pedir autorização.
+1.4.Se a imagem não for tornada pública na internet, mas fornecida por meios e agentes culturais, que habitam com o autor original o mesmo espaço cultural com frequência, a imagem será utilizada.
+1.5.É reservado ao autor original os direitos para solicitar a exclusão da imagem do projeto em qualquer caso.
+
+2. Solicitação de Fork e Pull
+
+Uma nova ramificação do projeto deve seguir explicitamente todas as diretrizes do GBAASSR. Modificações na licença não são autorizadas.
+Um novo ramo desenvolvido por um mantenedor autorizado pelo autor original, ou que habita os mesmos círculos de produções culturais e reconhece as produções originais do autor como elas são, pode seguir qualquer orientação incluindo aquelas partes externas do reino GBAASSR.
+
+3. Imagens e nomes
+
+Nenhum nome é atribuído às imagens, embora os autores originais possam perguntar se quiserem.
+
+4. Integração de Projetos
+
+Este projeto pode ser integrado manualmente ou por algoritmos com outros projetos que seguem a diretriz GBAASSR ou autores originais. O repositório do resto dos projetos deve ter a mesma licença não comercial, a menos que um autor original peça para fazer o contrário.
+
+5. Autor Original
+
+Aquele que fez a arte ou quem tirou a foto.
+
+
+
+ENGLISH
 
 ETHICAL MANIFESTO
 
@@ -6,30 +54,30 @@ ETHICAL MANIFESTO
 
 The images must not be used without the backup and explicit authorization of the original authors.
 
-The preceeding phrase, to us, translate in the following, without getting caught in the mistake of linear temporal authorization and inocent public authorization by the part of the original author:
+The preceding phrase, to us, translate in the following, without getting caught in the mistake of linear temporal authorization and innocent public authorization by the part of the original author:
 
-The work (image of) must explicit fit into the project prospects, mainly: Generative Biology Arts Academic Scientific Search and Research for the ends of humanistic software, medicinal, artistical and therapeutical production.
+The work (image of) must explicitly fit into the project prospects, mainly: Generative Biology Arts Academic Scientific Search and Research for the ends of humanistic software, medicinal, artistical and therapeutical production.
 
-Free of ideological, identital, cultural representation bias. Although it may be a sample representative of any cultural emerging representation, but not chained to this purpose.
+Free of ideological, identitary, cultural representation bias. Although it may be a sample representative of any cultural emerging representation, but not chained to this purpose.
 
-The project is under non-comercial license. Although the original authors are, obviously, in charge of make profit of it if they want to. The mainteiner of the project is subject to the former license.
+The project is under non-commercial license. Although the original authors are, obviously, in charge of making profit of it if they want to. The maintainer of the project is subject to the former license.
 
 1. Authorization procedure:
 
-1.1.If the image is public and the original author has a self-entitled comunication channel in internet, than he will be asked for authorization.
-1.2.If the original author does not make frequent use of the channel, and the image is public available, a notice will be given of the vinculation. Is delegated to the author the will to ask to exclude the image from the project. 
-1.3.If the original author hasnt communication channel, the image is public, and it is well known has distributed among any human culture, than it can be used without asking authorization.
-1.4.If the image is not made public in the internet but is provided by cultural means and agents, which inhabit with the original author the same cultural space frequently, then the image will be used.
+1.1.If the image is public and the original author has a self-entitled communication channel on the internet, then he will be asked for authorization.
+1.2.If the original author does not make frequent use of the channel, and the image is publicly available, a notice will be given of the vinculation. Is delegated to the author the will to ask to exclude the image from the project. 
+1.3.If the original author hasn't communication channel, the image is public, and it is well known has distributed among any human culture, then it can be used without asking authorization.
+1.4.If the image is not made public on the internet but is provided by cultural means and agents, which inhabit with the original author the same cultural space frequently, then the image will be used.
 1.5.Is reserved to the original author the rights to ask the exclusion of the image from the project in any case.
 
 2. Fork and Pull request
 
-A new branch of the project must follow explicity all GBAASSR guidelines. Modifications to the license are not authorized.
-A new branch developed by a mainteiner authorized by the original author, or that inhabit the same cultural productions circles and acknowledge the originalauthor productions as it is, may follow any guideline including those outside of GBAASSR realm.
+A new branch of the project must follow explicitly all GBAASSR guidelines. Modifications to the license are not authorized.
+A new branch developed by a maintainer authorized by the original author, or that inhabit the same cultural productions circles and acknowledge the original author productions as it is, may follow any guideline including those outsides of GBAASSR realm.
 
 3. Images and Names
 
-No names are atributed to the images, although the original authors can ask for it if they want so.
+No names are attributed to the images, although the original authors can ask for it if they want to.
 
 4. Project Integration
 
@@ -37,4 +85,296 @@ This project may be integrated manually or algorithmically with other projects t
 
 5. Original Author
 
-The one whom made the art or who taked the photo.
+The one who made the art or who took the photo.
+
+
+
+ESPAÑOL 
+
+MANIFIESTO ETICO
+
+0. Pautas
+
+Las imágenes no deben utilizarse sin la copia de seguridad y la autorización explícita de los autores originales.
+
+La frase anterior, para nosotros, se traduce en lo siguiente, sin quedar atrapado en el error de la autorización temporal lineal y la autorización pública inocente por parte del autor original:
+
+El trabajo (imagen de) debe encajar explícitamente en las perspectivas del proyecto, principalmente: Biología Generativa Artes Académico Científico Búsqueda e investigación para los fines de la producción de software humanístico, medicinal, artístico y terapéutico.
+
+Libre de sesgos ideológicos, identitarios, de representación cultural. Aunque puede ser una muestra representativa de cualquier representación cultural emergente, pero no encadenada a este propósito.
+
+El proyecto está bajo licencia no comercial. Aunque los autores originales son, obviamente, los encargados de sacar provecho si lo desean. El mantenedor del proyecto está sujeto a la anterior licencia.
+
+1. Procedimiento de autorización:
+
+1.1.Si la imagen es pública y el autor original tiene un canal de comunicación autoritulado en Internet, se le solicitará autorización.
+1.2.Si el autor original no hace uso frecuente del canal y la imagen está disponible públicamente, se enviará un aviso de la vinculación. Se delegue al autor la voluntad de solicitar excluir la imagen del proyecto.
+1.3. Si el autor original no tiene un canal de comunicación, la imagen es pública, y es bien sabido que se ha distribuido entre las culturas humanas, se puede usar sin pedir autorización.
+1.4.Si la imagen no se hace pública en Internet pero es proporcionada por medios y agentes culturales, que habitan con el autor original el mismo espacio cultural con frecuencia, se utilizará la imagen.
+1.5.Se reserva al autor original los derechos para solicitar la exclusión de la imagen del proyecto en cualquier caso.
+
+2. Solicitud de Fork y Pull.
+
+Una nueva rama del proyecto debe seguir explícitamente todas las pautas de GBAASSR. Las modificaciones a la licencia no están autorizadas.
+Una nueva rama desarrollada por un mantenedor autorizado por el autor original, o que habita en los mismos círculos de producciones culturales y reconoce las producciones originales del autor tal como están, puede seguir cualquier directriz, incluidas las partes externas del reino GBAASSR.
+
+3. Imágenes y nombres
+
+No se atribuyen nombres a las imágenes, aunque los autores originales pueden solicitarlo si lo desean.
+
+4. Integración del proyecto
+
+Este proyecto se puede integrar de forma manual o algorítmica con otros proyectos que sigan las pautas de GBAASSR o de los autores originales. El repositorio del resto de los proyectos debe tener la misma licencia no comercial a menos que un autor original solicite lo contrario.
+
+5. Autor original
+
+El que hizo el arte o quien tomó la foto.
+
+ITALIANO
+
+MANIFESTO ETICO
+
+0. Linee guida
+
+Le immagini non devono essere utilizzate senza il backup e l'autorizzazione esplicita degli autori originali.
+
+La frase precedente, per noi, traduce quanto segue, senza rimanere intrappolati nell'errore di un'autorizzazione temporale lineare e di un'autorizzazione pubblica innocente da parte dell'autore originale:
+
+L'opera (immagine di) deve essere esplicitamente inserita nelle prospettive del progetto, principalmente: Arti di biologia generativa Ricerca scientifica accademica e ricerca per i fini del software umanistico, della produzione medicinale, artistica e terapeutica.
+
+Privo di pregiudizi ideologici, identitari, di rappresentazione culturale. Sebbene possa essere un campione rappresentativo di qualsiasi rappresentazione culturale emergente, ma non incatenato a questo scopo.
+
+Il progetto è sotto licenza non commerciale. Sebbene gli autori originali siano, ovviamente, incaricati di trarne profitto se lo desiderano. Il manutentore del progetto è soggetto alla precedente licenza.
+
+1. Procedura di autorizzazione:
+
+1.1.Se l'immagine è pubblica e l'autore originale ha un canale di comunicazione auto-autorizzato su Internet, gli verrà richiesta l'autorizzazione.
+1.2.Se l'autore originale non fa un uso frequente del canale e l'immagine è pubblicamente disponibile, verrà data una notifica della vincolazione. Viene delegata all'autore la volontà di chiedere di escludere l'immagine dal progetto.
+1.3.Se l'autore originale non ha canali di comunicazione, l'immagine è pubblica, ed è ben nota è stata distribuita tra qualsiasi cultura umana, quindi può essere utilizzata senza chiedere autorizzazione.
+1.4.Se l'immagine non è resa pubblica su Internet ma è fornita da mezzi e agenti culturali, che abitano frequentemente con lo stesso spazio culturale, l'immagine verrà utilizzata.
+1.5. È riservato all'autore originale il diritto di chiedere l'esclusione dell'immagine dal progetto in ogni caso.
+
+2. Richiesta di forche e tiri
+
+Un nuovo ramo del progetto deve seguire esplicitamente tutte le linee guida GBAASSR. Le modifiche alla licenza non sono autorizzate.
+Un nuovo ramo sviluppato da un manutentore autorizzato dall'autore originale, o che risiede negli stessi circoli di produzione culturale e riconosce le produzioni dell'autore originale così com'è, può seguire qualsiasi linea guida compresi quelli esterni del regno GBAASSR.
+
+3. Immagini e nomi
+
+Nessun nome viene attribuito alle immagini, anche se gli autori originali possono chiederlo se lo desiderano.
+
+4. Integrazione del progetto
+
+Questo progetto può essere integrato manualmente o algoritmicamente con altri progetti che seguono la GBAASSR o la linea guida degli autori originali. Il repository del resto dei progetti deve avere la stessa licenza non commerciale a meno che un autore originale non chieda di fare diversamente.
+
+5. Autore originale
+
+Quello che ha fatto l'arte o che ha scattato la foto.
+
+
+CHINESE
+
+0.指南
+
+未經原作者的備份和明確授權，不得使用圖像。
+
+對於我們來說，前面的短語在下面進行了翻譯，沒有被原作者的部分線性時間授權和無辜的公共授權的錯誤所困擾：
+
+作品（圖像）必須明確地適合項目前景，主要是：生成生物學藝術學術科學搜索和研究人文軟件，藥物，藝術和治療生產的目的。
+
+沒有意識形態，同一性，文化表徵偏見。雖然它可能是任何文化新興代表的代表，但不是為此目的而被束縛。
+
+該項目是非商業許可證。雖然原作者顯然是負責如果他們想要獲利。該項目的維護者受前許可證的約束。
+
+1.授權程序：
+
+1.1。如果圖像是公開的，並且原作者在互聯網上擁有自我授權的通信渠道，那麼他將被要求授權。
+1.2。如果原作者沒有頻繁使用頻道，並且圖像是公開的，則會發出通知的通知。委託作者要求從項目中排除圖像。
+1.3。如果原作者沒有溝通渠道，形像是公開的，眾所周知已經分佈在任何人類文化中，那麼它可以在不經過授權的情況下使用。
+1.4。如果圖像不是在互聯網上公開，而是由文化手段和代理人提供的，這些文化手段和代理人經常與原作者居住在相同的文化空間，那麼將使用圖像。
+1.5。保留給原作者在任何情況下都要求從項目中排除圖像的權利。
+
+2.叉和拉請求
+
+項目的新分支必須明確遵循所有GBAASSR指南。許可證的修改未經授權。
+由原作者授權的維護者開發的新分支，或者居住在同一文化產品圈中並確認原作者作品的新分支，可以遵循任何準則，包括GBAASSR領域之外的任何準則。
+
+3.圖像和名稱
+
+沒有名字歸因於圖像，儘管原作者可以根據需要提出要求。
+
+4.項目整合
+
+該項目可以手動或算法與其他遵循GBAASSR或原作者指南的項目集成。除非原作者要求，否則其餘項目的存儲庫必須具有相同的非商業許可。
+
+5.原作者
+
+製作藝術品或拍攝照片的人。
+
+
+
+ROMÂNĂ
+
+0. Instrucțiuni
+
+Imaginile nu trebuie utilizate fără autorizația de rezervă și explicită a autorilor originali.
+
+Fraza precedentă, către noi, se traduce în cele ce urmează, fără a fi prins în greșeala autorizării temporale liniare și a autorizației publice nevinovate de partea autorului original:
+
+Lucrarea (imaginea) trebuie să se încadreze în mod explicit în perspectivele proiectului, în special: Cercetarea și cercetarea științifică științifică și științifică în domeniul biologiei genetice pentru scopurile produselor software umaniste, medicinale, artistice și terapeutice.
+
+Fără prejudecăți ideologice, identitare, reprezentare culturală. Deși poate fi un eșantion reprezentativ pentru orice reprezentare culturală emergentă, dar nu înlănțuită în acest scop.
+
+Proiectul este sub licență necomercială. Deși autorii originali sunt, evident, responsabili să obțină profit dacă vor. Administratorul proiectului este supus licenței anterioare.
+
+1. Procedura de autorizare:
+
+1.1.În cazul în care imaginea este publică și autorul original are un canal de comunicare pe internet, el va fi solicitat autorizare.
+1.2.În cazul în care autorul inițial nu folosește frecvent canalul, iar imaginea este disponibilă publicului, va fi făcută o notificare a vinculației. Este delegată autorului voința de a cere excluderea imaginii din proiect.
+1.3.În cazul în care autorul original nu are un canal de comunicare, imaginea este publică și este bine cunoscută distribuită în cadrul oricărei culturi umane, atunci ea poate fi utilizată fără a solicita autorizarea.
+1.4.În cazul în care imaginea nu este făcută publică pe internet, ci este furnizată de mijloace culturale și de agenți care locuiesc frecvent cu autorul original același spațiu cultural, atunci imaginea va fi folosită.
+1.5.Este rezervat autorului original dreptul de a cere excluderea imaginii din proiect în orice caz.
+
+2. Cererea de furcă și tragere
+
+O nouă ramură a proiectului trebuie să respecte în mod explicit toate orientările GBAASSR. Modificările aduse licenței nu sunt autorizate.
+O nouă filială dezvoltată de un întreținător autorizat de autorul inițial sau care locuiesc în aceleași cercuri de producție culturală și care recunoaște producțiile originale de autor așa cum este, poate urma orice orientare, inclusiv cele din afara domeniului GBAASSR.
+
+3. Imagini și nume
+
+Nici un nume nu este atribuit imaginilor, deși autorii originali o pot cere dacă doresc.
+
+4. Integrarea proiectului
+
+Acest proiect poate fi integrat manual sau algoritmic cu alte proiecte care respectă ghidul GBAASSR sau autorii originali. Depozitul restului de proiecte trebuie să aibă aceeași licență necomercială, cu excepția cazului în care un autor inițial solicită altfel.
+
+5. Autorul original
+
+Cel care a făcut arta sau a făcut fotografia.
+ 
+
+
+KURDÎ
+
+ETHICAL MANIFESTO
+
+0. Guidelines
+
+Divê wêneyên bêyî destûr û zelalkirina zanyariyên bingehîn ên rastîn bikar bînin.
+
+Peyva pêşîn, ji me re, me di nav vê yekê de wergerandin, bêyî ku di xeletiyê de desthilatdariya demokrasiyê û desthilatdariya biyanî ji hêla partiya sereke yê sereke ve bête girtin.
+
+Karê karûbar (wêne ya) divê bi derfetên projeyên pêşniyarî, bi taybetî:: Biolojiya Biyanî Hunerî Lêkolîn û Lêkolînên Zanîngeha ji bo dawiya endaman a software, derman, hunerî û dermankirinê.
+
+Azad ji îdeolojîk, nasnameyê, nûnerên çand ên azad. Her çiqas dibe ku nûnerê nimûne ku nûneriya pêşveçûna çandek çandî, lê ji ber vê armancê zêrîn be.
+
+Proje ne belgeya ne-bazirganî e. Tevî ku nivîskarên rastîn, bi eşkere, bi berpirsiyariya karanîna wê dê eger ew dixwazin dixwazin. Piştgiriya projeyê li ser lîsansa berê ye.
+
+1. Prosesa destûrkirinê:
+
+1.1 .Ji wêneyê gelemperî û nivîskarê rastîn li ser înternetê ya xweseriyek bixweberî heye, ew ê ji bo desthilatdariyê xwestin.
+1.2 .Ji ku nivîskarê navekî pir caran bikaranîna kanaletê nake, û wêneyê gelemperî heye, hişyar dê ji vincolasyonê be. Ji bo nivîskarê ku ji pisporê projeyê derveyî bikişîne wê ji bo nivîskarê delegeyê tête şandin.
+1.3 .Ji ku nivîskarê rastîn ne kanalek têkilî ye, wêneyê gelemperî ye, û ew baş eşkere di nav çandek mirovî de belav kirin, hingê ew bêyî ku destûra daxwazkirinê tê bikaranîn.
+1.4. Gava ku wêneyê li ser înternetê nayê kirin, lê ji hêla wateya çandî û nûnerên çandî ve tê dayîn, ku bi nivîskarê original original heman çandî ye, wê wêneyê dê bikar anîn.
+1.5 .Ji nivîskarê rastîn parastin ku mafên ku ji derveyî wêneyê ji projeyê re di rewşê de dipirsin.
+
+2. Daxistin û pişkek ji
+
+Divê projeya nû ya pêdivî ye ku divê rêbazên hemî GBAASSR bi awayekî zelal bike. Guherandinên ji bo lîsans nayê destnîşankirin.
+Zanyariyek nû ya ku ji hêla nivîskarê ku desthilatdariya esasî bi desthilatdar e, an jî ku heman derdorên hilberên çandî rûniştin û hilberên nivîskarên rastîn wekî qebûl e ku ew e, dibe ku tu rêberê ku di derveyî GBAASSR de rastîn de rê bike.
+
+3. Wêne û Names
+
+Na navên ku ji wan re bixwazin, nivîskarên rastîn dikarin ji wan bipirsin.
+
+4. Piştgiriya projeyê
+
+Ev projeyê dikare bi projeyên din yên GBAASSR an jî nivîskarên rastîn ên rêberiyê bi rêvebirinê bi destûra xwe an algorithmî ve girêdayî ye. Têkiliya yên mayî yên din jî divê lîsansek non-bazirganî heger heger ku nivîskarê navekî din jî naxwaze nabe.
+
+5. Nivîsarek rastîn
+
+Yê ku hunerî an ku wêne kir.
+
+
+CATALÀ
+
+MANIFEST ÉTIC
+
+0. Directrius
+
+Les imatges no s’han d’utilitzar sense la còpia de seguretat i l’autorització explícita dels autors originals.
+
+La frase anterior, per a nosaltres, es tradueix en el següent, sense quedar atrapat en l’error d’autorització temporal lineal i una autorització pública innocent per part de l’autor original:
+
+El treball (imatge de) ha d’adaptar-se explícitament a les perspectives del projecte, principalment: Recerca científica i investigació científica acadèmica de les arts biològiques generadores per al final del programari humanístic, la producció medicinal, artística i terapèutica.
+
+Lliure de predisposició ideològica, identitària i cultural. Tot i que pot ser una mostra representativa de qualsevol representació cultural emergent, però no encadenada a aquest propòsit.
+
+El projecte està sota llicència no comercial. Tot i que els autors originals són, òbviament, els encarregats de guanyar-se'n si ho volen. El mantenidor del projecte està subjecte a la llicència anterior.
+
+1. Procediment d'autorització:
+
+1.1.Si la imatge és pública i l’autor original té un canal de comunicació autònom a Internet, se li demanarà l’autorització.
+1.2.Si l'autor original no fa ús freqüent del canal i la imatge està disponible públicament, es donarà un avís sobre la vinculació. Es delegue a l’autor la voluntat de demanar l’exclusió de la imatge del projecte.
+1.3.Si l'autor original no té un canal de comunicació, la imatge és pública i és ben sabut que s'ha distribuït entre qualsevol cultura humana, llavors es pot utilitzar sense demanar autorització.
+1.4.Si la imatge no es fa pública a Internet, però és proporcionada per mitjans culturals i agents, que habiten amb l'autor original el mateix espai cultural amb freqüència, es farà servir la imatge.
+1.5.Es reserva a l’autor original els drets de sol·licitar l’exclusió de la imatge del projecte en qualsevol cas.
+
+2. Sol·licitud de forquilla i estirada
+
+Una nova branca del projecte ha de seguir explícitament totes les directrius de GBAASSR. Les modificacions de la llicència no estan autoritzades.
+Una nova sucursal desenvolupada per un mantenidor autoritzat per l’autor original, o que habiti en els mateixos cercles de produccions culturals i reconeix les produccions originals de l’autor tal com és, pot seguir qualsevol directriu que inclogui els exteriors del regne GBAASSR.
+
+3. Imatges i noms
+
+No se'ls atribueix cap nom a les imatges, tot i que els autors originals poden demanar-ho si ho desitgen.
+
+4. Integració del projecte
+
+Aquest projecte es pot integrar manualment o algorítmicament amb altres projectes que segueixen les directrius de GBAASSR o autors originals. El repositori de la resta de projectes ha de tenir la mateixa llicència no comercial a no ser que un autor original ho demani.
+
+5. Autor original
+
+El que va fer l'art o qui va prendre la foto.
+
+
+Ελληνικά
+
+ETHICAL MANIFESTO
+
+0. Κατευθυντήριες γραμμές
+
+Οι εικόνες δεν πρέπει να χρησιμοποιούνται χωρίς την εφεδρική και ρητή εξουσιοδότηση των αρχικών δημιουργών.
+
+Η προηγούμενη φράση, σε εμάς, μεταφράζεται στα ακόλουθα, χωρίς να χτυπηθεί στο λάθος της γραμμικής χρονικής εξουσιοδότησης και της αθώου δημόσιας εξουσιοδότησης από το μέρος του αρχικού συντάκτη:
+
+Το έργο (εικόνα) πρέπει να εντάσσεται ρητά στις προοπτικές του έργου, κυρίως: Γενετική Βιολογία Τέχνες Ακαδημαϊκή Επιστημονική έρευνα και έρευνα για τα άκρα του ανθρωπιστικού λογισμικού, φαρμακευτική, καλλιτεχνική και θεραπευτική παραγωγή.
+
+Απαλλαγμένη από ιδεολογική, ταυτότητα, πολιτισμική εκπροσώπηση. Παρόλο που μπορεί να είναι ένα δείγμα αντιπροσωπευτικό για οποιαδήποτε πολιτιστική αναδυόμενη παράσταση, αλλά όχι αλυσοδεμένη για το σκοπό αυτό.
+
+Το έργο είναι υπό μη εμπορική άδεια. Αν και οι αρχικοί συγγραφείς, προφανώς, είναι υπεύθυνοι για να κερδίσουν χρήματα αν το θέλουν. Ο διαχειριστής του έργου υπόκειται στην προηγούμενη άδεια.
+
+1. Διαδικασία αδειοδότησης:
+
+1.1.Αν η εικόνα είναι δημόσια και ο αρχικός συγγραφέας έχει ένα αυτοκαθοριζόμενο κανάλι επικοινωνίας στο διαδίκτυο, τότε θα ζητηθεί εξουσιοδότηση.
+1.2.Αν ο αρχικός συγγραφέας δεν κάνει συχνή χρήση του καναλιού και η εικόνα είναι διαθέσιμη στο κοινό, θα δοθεί μια ειδοποίηση για τη συσσώρευση. Ανατίθεται στον δημιουργό τη βούληση να ζητήσει να αποκλείσει την εικόνα από το έργο.
+1.3.Αν ο αρχικός συγγραφέας δεν έχει κανάλι επικοινωνίας, η εικόνα είναι δημόσια και είναι γνωστή έχει διανεμηθεί σε κάθε ανθρώπινο πολιτισμό, τότε μπορεί να χρησιμοποιηθεί χωρίς να ζητήσει εξουσιοδότηση.
+1.4.Αν η εικόνα δεν δημοσιοποιείται στο Διαδίκτυο αλλά παρέχεται από πολιτιστικά μέσα και πράκτορες που κατοικούν με τον αρχικό συγγραφέα στον ίδιο πολιτιστικό χώρο συχνά, τότε θα χρησιμοποιηθεί η εικόνα.
+1.5.Αποκλείεται στον αρχικό συντάκτη το δικαίωμα να ζητήσει σε κάθε περίπτωση την εξαίρεση της εικόνας από το έργο.
+
+2. Αίτημα για το πιρούνι και το τράβηγμα
+
+Ένα νέο τμήμα του έργου πρέπει να ακολουθεί ρητά όλες τις κατευθυντήριες γραμμές του GBAASSR. Οι τροποποιήσεις της άδειας δεν επιτρέπονται.
+Ένα νέο υποκατάστημα που αναπτύχθηκε από έναν συντηρητή που έχει εξουσιοδοτηθεί από τον αρχικό συγγραφέα ή που κατοικούν στους ίδιους κύκλους καλλιτεχνικών παραγωγών και αναγνωρίζει τις πρωτότυπες παραγωγές δημιουργών ως έχει, μπορεί να ακολουθήσει οποιεσδήποτε κατευθυντήριες γραμμές συμπεριλαμβανομένων εκείνων των εξωτερικών περιοχών του GBAASSR.
+
+3. Εικόνες και ονόματα
+
+Δεν αποδίδονται ονόματα στις εικόνες, αν και οι αρχικοί συγγραφείς μπορούν να το ζητήσουν αν θέλουν.
+
+4. Ένταξη Έργου
+
+Αυτό το έργο μπορεί να ενσωματωθεί χειροκίνητα ή αλγοριθμικά με άλλα έργα που ακολουθούν την κατευθυντήρια γραμμή GBAASSR ή πρωτότυπων συγγραφέων. Ο χώρος αποθήκευσης των υπολοίπων έργων πρέπει να έχει την ίδια μη εμπορική άδεια, εκτός εάν ένας αρχικός συγγραφέας ζητήσει κάτι διαφορετικό.
+
+5. Πρωτότυπος συντάκτης
+
+Αυτός που έκανε την τέχνη ή που έλαβε τη φωτογραφία.
