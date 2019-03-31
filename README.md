@@ -6,6 +6,10 @@ Suggested pathway to pattern matching architecture:
 - Apply sequential models for sequence of coarse-grained extracted features.
 - Apply Generative Adversarial model with previous model as generator.
 
+## Ethical Manifesto GBAASSR
+
+ - See the doc in the repository.
+
 ## Human Arts
 
 Some of the images are paitings by artists made public by themself, until now:
