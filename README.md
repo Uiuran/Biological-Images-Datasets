@@ -28,6 +28,7 @@ Suggested pathway to pattern matching architecture:
 ## Drawings
 
 - Mental-health activists and other related drawings.
+  - Yda, Brazil
 
 ## General Pattern Matching Resources
 
