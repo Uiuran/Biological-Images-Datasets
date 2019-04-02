@@ -30,10 +30,19 @@ Suggested pathway to pattern matching architecture:
 - Mental-health activists and other related drawings.
   - Yda, Brazil
 
-## General Pattern Matching Resources
+## Relevant Pattern Matching Resources
 
 - Semantic Segmentation
   - https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
 
 - Label/Classification Mocking (Surrogated Training Samples).
   - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
+
+## Relevant Psychology and Brain Phenomena Resources
+
+- Carl Gustav Jung 
+  - https://en.wikipedia.org/wiki/Carl_Jung
+
+- Nise da Silveira
+  - https://en.wikipedia.org/wiki/Nise_da_Silveira
+  
