@@ -25,6 +25,10 @@ Suggested pathway to pattern matching architecture:
 - Jill Bliss Biologist https://www.jillbliss.com/nature-medleys, NOMAD OF THE SALISH SEA (photos/painting)
 - Rujie (Rachel) Yin, Charlotte Dataset, https://services.math.duke.edu/~rachel/resources/charlotte2012.html, U.S. (painting) (very high resolution).
 
+## Drawings
+
+- Mental-health activists and other related drawings.
+
 ## General Pattern Matching Resources
 
 - Semantic Segmentation
