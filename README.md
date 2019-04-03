@@ -36,8 +36,9 @@ Suggested pathway to pattern matching architecture:
   - https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
 
 - Generative Adversarial Networks
-  - https://medium.com/datadriveninvestor/a-leap-into-the-future-generative-adversarial-networks-96a780ed8ee6
-  - https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7
+  - Recent technics in GANs, Overview https://medium.com/beyondminds/advances-in-generative-adversarial-networks-7bad57028032.
+  - https://medium.com/datadriveninvestor/a-leap-into-the-future-generative-adversarial-networks-96a780ed8ee6.
+  - https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7.
   
 - Label/Classification Mocking (Surrogated Training Samples).
   - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
@@ -50,3 +51,7 @@ Suggested pathway to pattern matching architecture:
 - Nise da Silveira
   - https://en.wikipedia.org/wiki/Nise_da_Silveira
   
+## Related Philosophical accounts
+
+- Donna Haraway's Chthulucene
+  - https://www.gla.ac.uk/media/media_534261_en.pdf#page=27
