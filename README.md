@@ -51,7 +51,7 @@ Suggested pathway to pattern matching architecture:
 - Nise da Silveira
   - https://en.wikipedia.org/wiki/Nise_da_Silveira
   
-## Related Philosophical accounts
+## Related Scientific Philosophical (SF) accounts
 
 - Donna Haraway's Chthulucene
   - https://www.gla.ac.uk/media/media_534261_en.pdf#page=27
