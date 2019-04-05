@@ -40,7 +40,8 @@ Suggested pathway to pattern matching architecture:
   - https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7.
 
 - Meta-heuristic learning
-  - Competitive Hebbian (associative memory) https://www.pnas.org/content/pnas/early/2019/03/27/1820458116.full.pdf.
+  - Competitive Hebbian (associative memory) https://www.pnas.org/content/pnas/early/2019/03/27/1820458116.full.pdf. Github: https://github.com/DimaKrotov/Biological_Learning/blob/master/Unsupervised_learning_algorithm_MNIST.ipynb.
+  
 
 - Label/Classification Mocking (Surrogated Training Samples).
   - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
