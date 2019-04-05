@@ -38,7 +38,10 @@ Suggested pathway to pattern matching architecture:
   - Recent technics in GANs, Overview https://medium.com/beyondminds/advances-in-generative-adversarial-networks-7bad57028032.
   - https://medium.com/datadriveninvestor/a-leap-into-the-future-generative-adversarial-networks-96a780ed8ee6.
   - https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7.
-  
+
+- Meta-heuristic learning
+  - Competitive Hebbian (associative memory) https://www.pnas.org/content/pnas/early/2019/03/27/1820458116.full.pdf.
+
 - Label/Classification Mocking (Surrogated Training Samples).
   - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
 
