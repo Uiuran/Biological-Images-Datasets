@@ -3,6 +3,7 @@ Online generated, biological, art images datasets. Explore in pattern matching a
 
 Suggested pathway to pattern matching architecture:
 - Apply semantic segmentation relying on many levels of deepeness and size of Convolutional Neural Nets layers.
+  - Analysis/Visualization of Feature Maps (Neurons, Channels, Layers, Regions and so on), Semantic Dictionaries (see ref below) and apply measurements.
 - Apply sequential models for sequence of coarse-grained extracted features.
 - Apply Generative Adversarial model with previous model as generator.
 
@@ -31,8 +32,14 @@ Suggested pathway to pattern matching architecture:
 
 ## Relevant Pattern Matching Resources
 
+- Interpretability Building Blocks: Visualization, Semantic Dictionaries and Attribuitions.
+  - https://distill.pub/2018/building-blocks/.
+
 - Semantic Segmentation
   - https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54.
+
+- Transfer Learning.
+  - https://github.com/tensorflow/hub.
 
 - Generative Adversarial Networks
   - Recent technics in GANs, Overview https://medium.com/beyondminds/advances-in-generative-adversarial-networks-7bad57028032.
