@@ -11,24 +11,19 @@ Suggested pathway to pattern matching architecture:
 
  - See the doc in the repository.
 
-## Human Arts
+## The Data: Human Arts, Biological Photos/Paintings and Drawings.
 
 - Collective made art.
-- Anny Lemos, Brazil.
-- Maria José Cabral, Portugal.
-- Frei Pedro, Brazil.
-- Adobe Behance (pop art and other) https://www.behance.net/.
-
-## Biological Photos/Paintings
-
+- Anny Lemos, Brazil. (Arts) 
+- Alexandre Magno Pimenta Jardim, Brazil. (Education, photos of insect and drawing with pencil)
+- Maria José Cabral, Portugal. (Arts)
+- Frei Pedro, Brazil. (Arts)
 - Samples personally made by me, São Carlos Brazil (photos).
 - Sebastião Salgado, Earth (Black White Photos).
+- Yda, Brazil. (Mental Health activist, Medium)
 - Jill Bliss Biologist https://www.jillbliss.com/nature-medleys, NOMAD OF THE SALISH SEA (photos/painting)
-
-## Drawings
-
+- Adobe Behance (pop art and other) https://www.behance.net/.
 - Mental-health activists and other related drawings.
-  - Yda, Brazil
 
 ## Relevant Pattern Matching Resources
 
@@ -54,7 +49,7 @@ Suggested pathway to pattern matching architecture:
 - Label/Classification Mocking (Surrogated Training Samples).
   - Discriminative Unsupervised Feature Learning  with Exemplar Convolutional Neural Networks https://arxiv.org/pdf/1406.6909.pdf
 
-## Relevant Psychology and Brain Phenomena Resources
+## Relevant Psychology, Brain Phenomena Resources and Scientific Philosophical (SF) accounts
 
 - Carl Gustav Jung 
   - https://en.wikipedia.org/wiki/Carl_Jung
@@ -63,9 +58,7 @@ Suggested pathway to pattern matching architecture:
   - https://en.wikipedia.org/wiki/Nise_da_Silveira
   
 - Humberto Maturana
-  - http://www.academia.edu/download/35398253/Humberto_Maturana.docx
-  
-## Related Scientific Philosophical (SF) accounts
+  - http://www.academia.edu/download/35398253/Humberto_Maturana.docx 
 
-- Donna Haraway's Chthulucene
-  - https://www.gla.ac.uk/media/media_534261_en.pdf#page=27
+- Donna Haraway
+  - https://www.gla.ac.uk/media/media_534261_en.pdf#page=27 
