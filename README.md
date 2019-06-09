@@ -22,8 +22,10 @@ Suggested pathway to pattern matching architecture:
 - Sebastião Salgado, Earth (Black White Photos).
 - Yda, Brazil. (Mental Health activist, Medium)
 - Jill Bliss Biologist https://www.jillbliss.com/nature-medleys, NOMAD OF THE SALISH SEA (photos/painting)
+- Reddit forum r/EarthPorn Pictures taken by the users. (photos/high resolution)
 - Adobe Behance (pop art and other) https://www.behance.net/.
 - Mental-health activists and other related drawings.
+
 
 ## Relevant Pattern Matching Resources
 
