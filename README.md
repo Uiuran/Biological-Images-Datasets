@@ -24,6 +24,7 @@ Suggested pathway to pattern matching architecture:
 - Jill Bliss Biologist https://www.jillbliss.com/nature-medleys, NOMAD OF THE SALISH SEA (photos/painting)
 - Reddit forum r/EarthPorn Pictures taken by the users. (photos/high resolution)
 - Adobe Behance (pop art and other) https://www.behance.net/.
+- Book of Kells, evangelic art made by Celtic Monks in the sec IX (photos).
 - Mental-health activists and other related drawings.
 
 
